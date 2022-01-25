@@ -56,4 +56,4 @@ Lycée Louise Michel • Gisors (27) • *Mention assez-bien*
 | Référencement      | Passionnée     |
 
 
-> Par ici pour voir [mon portfolio](http://paulineb.ovh).
+> Par ici pour voir [mon portfolio](http://paulineb.ovh/portefolio/).
