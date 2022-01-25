@@ -1,6 +1,6 @@
 # Pauline BRANLE
 
-! [Photo Pauline](/PaulineBrl/curriculum-vitae/pauline.jpg "pauline.jpg").
+! [Photo Pauline](/paulinebrl/curriculum-vitae/pauline.jpg "pauline.jpg").
 
 ## Expériences professionnelles
 
