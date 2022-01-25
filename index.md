@@ -1,7 +1,5 @@
 # Pauline BRANLE
 
-![Photo Pauline](/paulinebrl/curriculum-vitae/pauline.jpg "pauline.jpg").
-
 ## Expériences professionnelles
 
 ### Chargée de communication
